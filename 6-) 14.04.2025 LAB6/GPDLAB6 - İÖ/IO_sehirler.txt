@@ -1,0 +1,11 @@
+İstanbul,Marmara
+İzmir,Ege
+Adana,Akdeniz
+Antalya,Akdeniz
+Ankara,İç Anadolu
+Bursa,Marmara
+Eskişehir,İç Anadolu
+Ordu,Karadeniz
+Iğdır,Doğu Anadolu
+Çanakkale,Ege
+Gümüşhane,Karadeniz

@@ -1,0 +1,6 @@
+Mercimek Çorbası,70
+Mantı,200
+Çoban Salata,100
+Tavuk Sote,250
+Sütlaç,150
+Çay,30

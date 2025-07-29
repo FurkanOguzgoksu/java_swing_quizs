@@ -1,0 +1,3 @@
+Mercedes-benz CLA 200,3000000
+Volkswagen Tiguan,2500000
+Porche Taycan,9000000

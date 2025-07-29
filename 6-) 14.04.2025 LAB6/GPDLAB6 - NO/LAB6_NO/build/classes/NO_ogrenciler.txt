@@ -1,0 +1,7 @@
+Oğuz Yılmaz,65,Fizik
+Deniz Çelik,85,Matematik
+Özgür Öztürk,45,Kimya
+Büşra Akın,77,Matematik
+Uğur Şahin,55,İngilizce
+Başak Güler,82,Fizik
+Tuğba Çetin,38,İngilizce

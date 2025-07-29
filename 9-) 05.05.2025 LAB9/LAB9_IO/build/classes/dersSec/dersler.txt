@@ -1,0 +1,4 @@
+Matematik,5
+Kimya,4
+Fizik,4
+Biyoloji,3
